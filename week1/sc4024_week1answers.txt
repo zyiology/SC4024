@@ -1,0 +1,41 @@
+1. 
+discrete	(a) Number of patients in the wards
+continuous	(b) The blood pressure of the patient
+continuous	(c) The pulse of the patient (discrete?)
+continuous	(d) The size of the patient’s tumour
+discrete	(e) The emergency room waiting time rounded to the nearest minute
+
+2.
+
+ordinal		(a) Rank in the Singapore Army
+ratio		(b) Number of students registered for CZ4124
+interval	(c) Shoe sizes
+nominal		(d) Jersey numbers in the Singapore national football team
+
+3.
+
+nominal		student ID
+nominal		gender
+interval	year of birth
+ratio		attendance
+ratio		score
+interval	grade (ordinal?)
+ratio		completion time
+
+4.
+
+completion time. can take any real value, depending on precision of instrument that measures it
+(limitation of resolution does not make a property discrete)
+
+5.
+
+3 dimensions
+OS / Age / % of users
+
+OS - nominal
+Age - ratio (nominal?)
+% - ratio
+
+
+
+1.2
